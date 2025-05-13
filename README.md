@@ -1,5 +1,6 @@
-# Kali-SSH-Login-Demo
-This lab demonstrates how to establish secure remote access to a Kali Linux machine from a Windows 10 client using SSH (Secure Shell). It’s part of my broader networking and cybersecurity learning series aimed at understanding secure communication protocols and remote administration.
+## 🚀 Kali SSH Login Demo
+This project demonstrates how to access a remote Linux server (Kali) from a Windows client using SSH via PuTTY. It's part of a larger networking security lab series focused on protocol behaviors and secure communication.
+
 
 ## 🛠️ What I Did
 
@@ -24,8 +25,8 @@ This lab demonstrates how to establish secure remote access to a Kali Linux mach
 ## 📺 Demo Video
 
 Watch the full video walkthrough of this lab on YouTube (unlisted):  
-🔗 [Watch the video here - SSH+PuttY_1](https://youtu.be/d2KBONbv894)
-🔗 [Watch the video here - SSH+PuttY_2](https://youtu.be/hupRQGyow5E)
+🔗 🎥 **Lab Walkthrough Video:** [Watch on YouTube - SSH+PuttY_1](https://youtu.be/d2KBONbv894)
+🔗 🎥 **Lab Walkthrough Video:** [Watch on YouTube - SSH+PuttY_2](https://youtu.be/hupRQGyow5E)
 
 ---
 
